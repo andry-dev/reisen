@@ -1,0 +1,6 @@
+[submodule "ext/glfw"]
+	path = ext/glfw
+	url = https://github.com/glfw/glfw
+[submodile "ext/asl"]
+	parh = ext/asl
+	url = https://github.com/andry-dev/asl
