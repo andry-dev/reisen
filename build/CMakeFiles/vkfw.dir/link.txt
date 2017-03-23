@@ -1,1 +1,0 @@
-/usr/bin/clang++   -g   CMakeFiles/vkfw.dir/src/main.cpp.o CMakeFiles/vkfw.dir/src/Window.cpp.o CMakeFiles/vkfw.dir/src/Instance.cpp.o CMakeFiles/vkfw.dir/src/Device.cpp.o CMakeFiles/vkfw.dir/src/App.cpp.o  -o vkfw -rdynamic -lGLEW -lGLU -lGL -lvulkan ext/glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread -lXrandr -lXinerama -lXcursor 
